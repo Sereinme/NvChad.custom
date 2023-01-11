@@ -1,5 +1,8 @@
 # NvChad.custom
-Custom configuration of NvChad.
+
+Custom configuration of NvChad. Simple showcase as below, using [Neovide](https://github.com/neovide/neovide) as front end.
+
+![](screenshot.png)
 
 ## Overview
 
